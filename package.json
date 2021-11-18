@@ -17,13 +17,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/atlassian/react-beautiful-dnd.git"
+    "url": "https://github.com/atlassian/Elegant-dnd-with-react.git"
   },
   "bugs": {
-    "url": "https://github.com/atlassian/react-beautiful-dnd/issues"
+    "url": "https://github.com/atlassian/Elegant-dnd-with-react/issues"
   },
-  "main": "dist/react-beautiful-dnd.cjs.js",
-  "module": "dist/react-beautiful-dnd.esm.js",
+  "main": "dist/Elegant-dnd-with-react.cjs.js",
+  "module": "dist/Elegant-dnd-with-react.esm.js",
   "sideEffects": false,
   "files": [
     "/dist",
